@@ -1,5 +1,5 @@
 [![README build](https://github.com/ecpark-danbi/ecpark-danbi/actions/workflows/main.yml/badge.svg)](https://github.com/ecpark-danbi/ecpark-danbi/actions/workflows/main.yml) [![Unit Test](https://github.com/ecpark-danbi/ecpark-danbi/actions/workflows/unit-test.yml/badge.svg)](https://github.com/ecpark-danbi/ecpark-danbi/actions/workflows/unit-test.yml)
-# ![](https://emojis.slackmojis.com/emojis/images/1613000644/12518/kitty_chase_heart.gif?1613000644|width=60) Hey! Nice to see you.
+# ![](kitty_chase_heart.gif){: width="60px" height="60px"} Hey! Nice to see you.
 
 
 <p>Welcome to my page! </br> I'm Eunchurn, Senior fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="13"/> <b>Seoul, Korea</b>, currently work as a team leader at <img src="https://avatars.githubusercontent.com/u/60495464?s=200&v=4" width="13"/> <a href="https://danbicorp.com" target="_blank"><b>DanbiKorea</b></a>. </p>
