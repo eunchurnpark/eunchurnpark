@@ -36,7 +36,7 @@
   <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-0C3249?style=flat-square&logo=prisma&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="Material UI" src="https://img.shields.io/badge/-MUI-0081CB?style=flat-square&logo=mui&logoColor=white" />
-  <img alt="Material Design" src="https://img.shields.io/badge/-MUI-0081CB?style=flat-square&logo=material-design&logoColor=white" />
+  <img alt="Material Design" src="https://img.shields.io/badge/-Material%20Design-0081CB?style=flat-square&logo=material-design&logoColor=white" />
   <img alt="pypi" src="https://img.shields.io/badge/-PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
   <img alt="SciPy" src="https://img.shields.io/badge/-scipy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
@@ -139,7 +139,7 @@
 </p>
 <h3>Research</h3>
 <p>
-  <img alt="researchgate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white" />
+  <a href="https://www.researchgate.net/profile/Eunchurn-Park-2" target="_blank"><img alt="researchgate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white" /></a>
 </p>
 <h3>Side projects</h3>
 <table>
@@ -183,5 +183,5 @@
 <p><a href="https://github.com/ecpark-danbi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/eunchurn" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://soundcloud.com/eunchurn"><img alt="SoundCloud" src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 3월 20일 일요일 오후 6:20 GMT+9<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 3월 20일 일요일 오후 6:27 GMT+9<br />
 <p align="center"><img src="https://github.com/eunchurn/eunchurn/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/></p>
