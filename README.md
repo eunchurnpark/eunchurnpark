@@ -180,7 +180,7 @@
 </table>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C748%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C748%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -212,8 +212,8 @@
 ```text
 월요일          239 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.57% 
 화요일          235 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.34% 
-수요일          330 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.74% 
-목요일          338 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.19% 
+수요일          329 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.68% 
+목요일          339 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.25% 
 금요일          299 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.98% 
 토요일          150 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.52% 
 일요일          170 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.65%
