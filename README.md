@@ -183,7 +183,7 @@
 </table>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C796%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C797%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -191,9 +191,9 @@
 
 **🐱 저의 GitHub 정보에요.** 
 
-> 🏆 42,706 만큼의 Contributions을 2022년에 했어요
+> 🏆 42,713 만큼의 Contributions을 2022년에 했어요
  > 
-> 📦 GitHub의 32.9 kB만큼의 저장소를 사용하고 있어요. 
+> 📦 GitHub의 33.0 kB만큼의 저장소를 사용하고 있어요. 
  > 
 > 🚫 구직중이지 않아요.
  > 
